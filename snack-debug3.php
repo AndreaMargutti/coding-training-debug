@@ -18,3 +18,9 @@ function greet($name) {
       return "Hello, $name!";
     }
 }
+
+//# my solution 2
+
+function greet($name) {
+    return $name === 'Johnny' ? 'Hello, my love!' : "Hello, $name!";
+}
