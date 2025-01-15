@@ -1,5 +1,7 @@
 <?php
 
+//!credits: https://www.codewars.com/kata/597c684822bc9388f600010f
+
 //# ESERCIZIO: debug this code
 
 class Dinglemouse {

@@ -1,5 +1,7 @@
 <?php
 
+//!credits: https://www.codewars.com/kata/55225023e1be1ec8bc000390/php
+
 //# debug this code:
 
 function greet($name) {
