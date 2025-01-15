@@ -16,3 +16,6 @@ getNames(data) // should return ['Joe', 'Bill', 'Kate']
 
 //# my solution
 
+function getNames(data) {
+    return data.map(function (item) { return item.name });
+}
